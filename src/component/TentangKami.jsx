@@ -1,7 +1,7 @@
 const TentangKami = ({ tentangKami }) => {
   return (
     <section className="h-auto bg-[#94B4C180] px-[30px] md:px-[125px]">
-      <div className="my-20 pt-13">
+      <div className="my-0 md:my-20 pt-13">
         <p className="text-center text-3xl md:text-5xl font-bold">
           Tentang Kami
         </p>
@@ -9,8 +9,8 @@ const TentangKami = ({ tentangKami }) => {
           Mengenal Lebih Dekat Paguyuban UMKM Klampis Ngasem
         </p>
       </div>
-      <div className="grid grid-cols-2 h-full pb-20">
-        <div className="my-auto mx-auto p-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 h-full pb-20">
+        <div className="m-auto md:p-2 bg-amber-200 my-10 md:my-0">
           <img
             src={tentangKami}
             alt="profile"
@@ -18,7 +18,7 @@ const TentangKami = ({ tentangKami }) => {
           />
         </div>
         <div className="m-auto">
-          <p className="text-xl md:text-3xl font-bold ">
+          <p className="text-xl md:text-3xl font-bold mt-5 md:mt-0">
             Paguyuban UMKM Klampis Ngasem
           </p>
           <p className="text-sm md:text-xl font-normal mt-10">
