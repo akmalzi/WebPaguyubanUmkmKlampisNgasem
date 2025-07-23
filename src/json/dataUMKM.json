@@ -1,0 +1,499 @@
+[
+  {
+    "nama_umkm": "Nasi Goreng Cak Man",
+    "pemilik": "Warsiman",
+    "alamat": "Klampis Ngasem II/14",
+    "jenis": "Kuliner",
+    "produk": "Nasi Goreng dan Nasi Campur",
+    "kontak": "082124810600",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Capriesto Catering",
+    "pemilik": "Hellyana Dwi N.",
+    "alamat": "Klampis Sacharosa No. 22",
+    "kontak": "081515951454",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/capriesto.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Nayla",
+    "pemilik": "Humisa",
+    "alamat": "Jl. Mleto I No. 7A",
+    "kontak": "081233784581",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Ayam Geprek Bejo",
+    "pemilik": "Sriana",
+    "alamat": "Jl. Klampis Aji Tengah II / 9",
+    "kontak": "083117004119",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Dapur 68",
+    "pemilik": "Edwine Irawati",
+    "alamat": "Jl. Klampis Sacharosa No. 68",
+    "kontak": "082132388936",
+    "kategori": ["Minuman", "Makanan"],
+    "logo": "/image/logo/dapur68.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Teh Lecy",
+        "harga": "6000",
+        "gambar": "/image/katalog/dapur68/dapur681.jpg"
+      },
+      {
+        "nama_produk": "Degan Sintetis",
+        "harga": "8000",
+        "gambar": "/image/katalog/dapur68/dapur682.jpg"
+      },
+      {
+        "nama_produk": "Soes Vla",
+        "harga": "5000",
+        "gambar": "/image/katalog/dapur68/dapur683.jpg"
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Catering D'Soetji",
+    "pemilik": "Piheni Tyaswiludjeng",
+    "alamat": "Jl. Mleto 1",
+    "kontak": "081808200771",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/dsoetji.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Gurami bakar madu",
+        "harga": "70000",
+        "gambar": "/image/katalog/dsoetji/dsoetji1.jpg"
+      },
+      {
+        "nama_produk": "Tumpeng 5 orang",
+        "harga": "300.000 dan kelipatannya",
+        "gambar": "/image/katalog/dsoetji/dsoetji2.jpg"
+      },
+      {
+        "nama_produk": "Ayam bakar madu",
+        "harga": "80000",
+        "gambar": "/image/katalog/dsoetji/dsoetji3.jpg"
+      },
+      {
+        "nama_produk": "Otak-otak Bakar Sunda",
+        "harga": "4000/pcs",
+        "gambar": "/image/katalog/dsoetji/dsoetji4.jpg"
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Salad Bohay",
+    "pemilik": "Dias Desita Putri A.",
+    "alamat": "Klampis Aji Tengah II / 7",
+    "kontak": "082257665205",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/salad_bohay.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Pawon 35",
+    "pemilik": "Safitry Indra Salastry SE",
+    "alamat": "Jl. Klampis Sacharosa No. 35",
+    "kontak": "081330145983",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/pawon35.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Dapur Mamkey",
+    "pemilik": "Rima Yunita",
+    "alamat": "Jl. Klampis Semalang 7 / 17-A",
+    "kontak": "082150513663",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Gaya’s Kitchen",
+    "pemilik": "Raga Suharso Edhy",
+    "alamat": "Jl. Klampis Sacharosa No. 28",
+    "kontak": "085713235000",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Olahan Bunda Hamis",
+    "pemilik": "Mahanani Dyah Pawestri",
+    "alamat": "Jl. Klampis Sacharosa No. 33",
+    "kontak": "081331443603",
+    "kategori": ["Makanan"],
+    "logo": "/image/logo/bundahamiz.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Blasta id Sby",
+    "pemilik": "Diani Murti Wijayanti",
+    "alamat": "Jl. Klampis Aji No. 39",
+    "kontak": "081233604002",
+    "kategori": ["Minuman"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "De Sinom",
+    "pemilik": "Sulistyowati SR",
+    "alamat": "Deles IV No. 14B",
+    "kontak": "081231629339",
+    "kategori": ["Minuman"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Dapure AK",
+    "pemilik": "Nungky Suharwati",
+    "alamat": "Klampis Harapan AA-102",
+    "kontak": "08123217884",
+    "kategori": ["Minuman", "Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Koyek Drinks & Nasgor Ndog",
+    "pemilik": "Ichtada",
+    "alamat": "Klampis Ngasem 3 No. 11",
+    "kontak": "083173046842",
+    "kategori": ["Minuman", "Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Doyan Jajan",
+    "pemilik": "Richa Efrania P.",
+    "alamat": "Deles 4 / 8",
+    "kontak": "081252573277",
+    "kategori": ["Kue", "Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Kebab Lasan",
+    "pemilik": "Anang Rubyanto A.",
+    "alamat": "Klampis Anom 3 No. 9",
+    "kontak": "083857284920",
+    "kategori": ["Kue"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "UD. Klasik Indonesia Food",
+    "pemilik": "Gaby Deandra A.",
+    "alamat": "Manyar Tirtoasri IV No. 9",
+    "kontak": "081332906182",
+    "kategori": ["Kue"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Lezat",
+    "pemilik": "Soehartini",
+    "alamat": "Jl. Klampis Ngasem IV / 29",
+    "kontak": "085748688355",
+    "kategori": ["Kue"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Dy DapoerQ",
+    "pemilik": "Soesilaningdyah",
+    "alamat": "Jl. Klampis Sacharosa No. 22",
+    "kontak": "082139852537",
+    "kategori": ["Minuman", "Makanan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Gracia’s",
+    "pemilik": "Evelina Widyawati",
+    "alamat": "Jl. Klampis Sacharosa 58",
+    "kontak": "081358226996",
+    "kategori": ["Kue"],
+    "logo": "/image/logo/gracias.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Dapur Bu Bagong",
+    "pemilik": "Nur Faridah",
+    "alamat": "Jl. Mleto No. 29A",
+    "kontak": "081703703190",
+    "kategori": ["Kue"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Karya Abadi",
+    "pemilik": "Himawan Soeripto",
+    "alamat": "Klampis Mega No. 9",
+    "kontak": "082143325782",
+    "kategori": ["Kerajinan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  },
+  {
+    "nama_umkm": "Ergio",
+    "pemilik": "Erna Mufida",
+    "alamat": "Jl. Klampis Ngasem 51",
+    "kontak": "085607073322",
+    "kategori": ["Kerajinan"],
+    "logo": "/image/logo/blank-icon.jpg",
+    "katalog": [
+      {
+        "nama_produk": "Ayam Geprek Bejo",
+        "harga": 15000,
+        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+      },
+      {
+        "nama_produk": "Minuman Segar",
+        "harga": 5000,
+        "gambar": "Minuman segar untuk menemani makan."
+      }
+    ]
+  }
+]
