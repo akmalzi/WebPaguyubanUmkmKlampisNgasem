@@ -13,6 +13,12 @@ const DaftarUMKM = () => {
   const [aktifIndex, setAktifIndex] = useState(null);
   const [indexLabel, setIndexLabel] = useState("");
 
+  const [searchKeyword, setSearchKeyword] = useState("");
+
+  const filteredUMKM = dataUMKM.filter((value) =>
+    value.nama_umkm.toLowerCase().includes(searchKeyword.toLowerCase())
+  );
+
   const tombolList = ["Makanan", "Minuman", "Kue", "Kerajinan"];
 
   return (
@@ -24,7 +30,7 @@ const DaftarUMKM = () => {
           title="Daftar UMKM"
           subTitle="Temukan ragam usaha mikro, kecil, dan menengah yang tumbuh bersama komunitas."
         />
-        <div className="text-center my-21">
+        <div className="text-center my-15 md:my-21">
           <p className="font-bold text-4xl">Daftar UMKM Klampis Ngasem</p>
           <p className="font-semibold text-xl mt-3">
             Yuk Kenali UMKM Klampis Ngasem Lebih Dekat!
@@ -35,11 +41,13 @@ const DaftarUMKM = () => {
             type="search"
             name="cariUMKM"
             id=""
+            value={searchKeyword}
+            onChange={(e) => setSearchKeyword(e.target.value)}
             placeholder="Cari UMKM...."
             className="border-4 border-[#547792] w-9/10 justify-center m-auto p-3 rounded-2xl text-xl font-semibold"
           />
         </div>
-        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-10 my-21">
+        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-10 my-15 md:my-21">
           {tombolList.map((label, index) => (
             <button
               key={index}
@@ -65,9 +73,8 @@ const DaftarUMKM = () => {
           ))}
         </div>
         <div className="grid grid-cols-2 gap-6 md:gap-20">
-          {dataUMKM.map((value, index) => {
-            if (indexLabel === "" || value.kategori.includes(indexLabel)) {
-              return (
+          {searchKeyword.trim() !== ""
+            ? filteredUMKM.map((value, index) => (
                 <CardUMKM
                   key={index}
                   namaUMKM={value.nama_umkm}
@@ -77,9 +84,22 @@ const DaftarUMKM = () => {
                   nomor={value.kontak}
                   katalog={value.katalog}
                 />
-              );
-            }
-          })}
+              ))
+            : dataUMKM.map((value, index) => {
+                if (indexLabel === "" || value.kategori.includes(indexLabel)) {
+                  return (
+                    <CardUMKM
+                      key={index}
+                      namaUMKM={value.nama_umkm}
+                      pemilik={value.pemilik}
+                      alamat={value.alamat}
+                      gambar={value.logo}
+                      nomor={value.kontak}
+                      katalog={value.katalog}
+                    />
+                  );
+                }
+              })}
         </div>
       </section>
       <Footer />

@@ -9,7 +9,7 @@ import DetailUMKM from "./page/DetailUMKM";
 function App() {
   return (
     <>
-      <div className="w-screen h-auto">
+      <div className="w-screen h-auto font-['Alice']">
         <BrowserRouter>
           <ScrollToTop />
           <Routes>
