@@ -8,7 +8,7 @@ const CardUMKM = ({ namaUMKM, alamat, pemilik, gambar, nomor, katalog }) => {
         to="/detail"
         state={{ namaUMKM, pemilik, alamat, gambar, nomor, katalog }}
       >
-        <div className="grid grid-cols-2 hover:opacity-70 bg-green-100">
+        <div className="grid grid-cols-2 hover:opacity-70">
           <img src={gambar} alt="" className="w-52" />
           <div className="align-center my-auto p-2">
             <p className="text-[18px] md:text-3xl font-semibold">{namaUMKM}</p>

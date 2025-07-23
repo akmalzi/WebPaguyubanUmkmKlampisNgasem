@@ -1,6 +1,6 @@
-import React from "react";
+import dataKategori from "../json/dataKategori.json";
 
-const JenisUmkm = ({ kategoriUmkm }) => {
+const JenisUmkm = () => {
   return (
     <>
       <section>
@@ -10,42 +10,17 @@ const JenisUmkm = ({ kategoriUmkm }) => {
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-4 text-center gap-10 w-4/5 mx-auto">
-          <div>
-            <img
-              src={kategoriUmkm}
-              alt=""
-              width={120}
-              className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
-            />
-            <p className="font-semibold">Makanan</p>
-          </div>
-          <div>
-            <img
-              src={kategoriUmkm}
-              alt=""
-              width={120}
-              className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
-            />
-            <p className="font-semibold">Minuman</p>
-          </div>
-          <div>
-            <img
-              src={kategoriUmkm}
-              alt=""
-              width={120}
-              className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
-            />
-            <p className="font-semibold">Kue</p>
-          </div>
-          <div>
-            <img
-              src={kategoriUmkm}
-              alt=""
-              width={120}
-              className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
-            />
-            <p className="font-semibold">Kerajinan</p>
-          </div>
+          {dataKategori.map((item, index) => (
+            <div key={index}>
+              <img
+                src={item.gambar}
+                alt=""
+                width={120}
+                className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
+              />
+              <p className="font-semibold">Makanan</p>
+            </div>
+          ))}
         </div>
       </section>
     </>

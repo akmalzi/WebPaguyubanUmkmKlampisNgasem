@@ -5,7 +5,7 @@ import CardUMKM from "../component/CardUMKM.jsx";
 
 import dataUMKM from "../json/dataUMKM.json";
 
-import heroImage from "../asset/heroImage.png";
+import heroImage from "../asset/heroImage.webp";
 import HeroSection from "../component/HeroSection.jsx";
 import Footer from "../component/Footer.jsx";
 

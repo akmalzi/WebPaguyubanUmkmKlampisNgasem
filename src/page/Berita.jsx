@@ -2,7 +2,7 @@ import Navbar from "../component/Navbar.jsx";
 import Footer from "../component/Footer.jsx";
 import HeroSection from "../component/HeroSection.jsx";
 
-import heroImage from "../asset/heroImage.png";
+import heroImage from "../asset/heroImage.webp";
 import CardBerita from "../component/CardBerita.jsx";
 
 import dataBerita from "../json/dataBerita.json";

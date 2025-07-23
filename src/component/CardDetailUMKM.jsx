@@ -4,7 +4,7 @@ const CardDetailUMKM = ({ namaUMKM, alamat, pemilik, gambar, nomor }) => {
     <>
       <div className="grid grid-cols-2">
         <img src={gambar} alt="Logo UMKM" className="w-25 m-auto md:w-52" />
-        <div className="align-center my-auto bg-emerald-200">
+        <div className="align-center my-auto">
           <p className="text-2xl md:text-3xl font-bold md:font-semibold">
             {namaUMKM}
           </p>
