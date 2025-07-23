@@ -21,7 +21,7 @@ const TentangKami = ({ tentangKami }) => {
           <p className="text-xl md:text-3xl font-bold ">
             Paguyuban UMKM Klampis Ngasem
           </p>
-          <p className="text-md md:text-xl font-thin mt-10">
+          <p className="text-sm md:text-xl font-normal mt-10">
             Paguyuban UMKM Klampis Ngasem adalah sebuah organisasi atau kelompok
             yang mewadahi Usaha Mikro, Kecil, dan Menengah (UMKM) di daerah
             Klampis Ngasem, Surabaya. Kelompok ini bertujuan untuk mengembangkan

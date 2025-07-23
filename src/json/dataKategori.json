@@ -1,14 +1,18 @@
 [
   {
-    "gambar": "/image/kategori/Frame 1.png"
+    "gambar": "/image/kategori/Frame 1.png",
+    "kategori": "Makanan"
   },
   {
-    "gambar": "/image/kategori/Frame 2.png"
+    "gambar": "/image/kategori/Frame 2.png",
+    "kategori": "Minuman"
   },
   {
-    "gambar": "/image/kategori/Frame 3.png"
+    "gambar": "/image/kategori/Frame 3.png",
+    "kategori": "Kue"
   },
   {
-    "gambar": "/image/kategori/Frame 4.png"
+    "gambar": "/image/kategori/Frame 4.png",
+    "kategori": "Kerajinan"
   }
 ]

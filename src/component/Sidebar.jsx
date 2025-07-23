@@ -43,9 +43,6 @@ const Sidebar = () => {
           <Link to="/daftarumkm" onClick={() => setSidebarOpen(false)}>
             UMKM
           </Link>
-          <Link to="/tentang" onClick={() => setSidebarOpen(false)}>
-            Tentang
-          </Link>
         </nav>
       </div>
     </div>
