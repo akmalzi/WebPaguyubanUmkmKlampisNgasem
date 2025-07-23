@@ -10,7 +10,7 @@ import HeroSection from "../component/HeroSection.jsx";
 
 const Beranda = () => {
   return (
-    <div className="">
+    <div className="font-['Alice']">
       <Navbar />
       <div className="h-auto mx-[30px] md:mx-[125px]">
         <HeroSection

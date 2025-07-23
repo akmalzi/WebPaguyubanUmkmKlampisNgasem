@@ -22,10 +22,19 @@ const Sidebar = () => {
 
       {/* Sidebar */}
       <div
-        className={`fixed top-0 left-0 h-full w-64 bg-white shadow-lg z-50 transform transition-transform duration-300 ${
+        className={`fixed top-0 left-0 h-full w-70 bg-white shadow-lg z-50 transform transition-transform duration-300 ${
           sidebarOpen ? "translate-x-0" : "-translate-x-full"
         }`}
       >
+        <div className="flex py-2 ">
+          <img
+            src="/image/logo/logoPaguyuban.jpg"
+            alt=""
+            width={170}
+            className="mx-auto"
+          />
+          {/* <img src="/image/logo/logoKKN.webp" alt="" className="w-15" /> */}
+        </div>
         <div className="flex justify-between items-center p-4 border-b">
           <h2 className="text-xl font-bold">Menu</h2>
           <button onClick={() => setSidebarOpen(false)}>
@@ -37,11 +46,11 @@ const Sidebar = () => {
           <Link to="/" onClick={() => setSidebarOpen(false)}>
             Beranda
           </Link>
-          <Link to="/berita" onClick={() => setSidebarOpen(false)}>
-            Berita
-          </Link>
           <Link to="/daftarumkm" onClick={() => setSidebarOpen(false)}>
             UMKM
+          </Link>
+          <Link to="/berita" onClick={() => setSidebarOpen(false)}>
+            Berita
           </Link>
         </nav>
       </div>

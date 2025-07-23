@@ -4,76 +4,28 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      <footer className="bg-[#94B4C180] px-4 md-2:px-[72px]">
-        <div className="mx-auto py-6 lg:py-8 h-[269px]">
-          <div className="md:flex md:justify-between">
-            <div className="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" className="flex items-center">
-                <img
-                  src="/assets/logo-app.png"
-                  className="h-12 me-3"
-                  alt="FlowBite Logo"
-                />
-              </a>
-              <p className="mt-2">
-                Butuh bantuan? <br />
-                Hubungi kami untuk informasi lanjut
-              </p>
-            </div>
-            <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
-              <div>
-                <h2 className="mb-4 text-lg font-medium">Kontak</h2>
-                <ul className="text-black">
-                  <li className="mb-2">
-                    <a
-                      href="https://flowbite.com/"
-                      className="font-[14px] hover:underline"
-                    >
-                      kebunbibit@gmail.com
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://tailwindcss.com/"
-                      className="font-[14px] hover:underline"
-                    >
-                      +62 12345678
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div className="mx-auto">
-                <h2 className="mb-4 text-lg font-medium">Menu</h2>
-                <ul className="text-black">
-                  <li className="mb-2">
-                    <Link to={"/profile"} className="hover:underline ">
-                      Profil Akun
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={"/ulasan"} className="hover:underline">
-                      Ulasan
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-              <div>
-                <h2 className="mb-4 text-lg font-medium">Informasi Lain</h2>
-                <ul className="text-black">
-                  <li className="mb-2">
-                    <a href="#" className="hover:underline">
-                      FAQ
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" className="hover:underline">
-                      Kebijakan Privasi
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
+      <footer className="grid grid-cols-4 px-[30px] md:px-[155px] bg-[#547792] text-white py-6 md:py-10">
+        <div className="text-sm md:text-2xl font-bold">
+          <p>Paguyuban</p>
+          <p>UMKM Klampis</p>
+          <p>Ngasem</p>
+        </div>
+        <div className="">
+          <p className="font-semibold text-sm md:text-xl mb-2">
+            Informasi Kontak
+          </p>
+          <p className="text-[10px] md:text-xl">Ibu Edwine </p>
+          <p className="text-[10px] md:text-xl">088888888888</p>
+        </div>
+        <div className="">
+          <p className="font-semibold text-sm md:text-xl mb-2">Lokasi</p>
+          <p className="text-[10px] md:text-xl">
+            Jl Klampis Ngasem, Komplek Klampis Ngasem no 123, Surabaya, Jawa
+            Timur
+          </p>
+        </div>
+        <div className="ml-auto">
+          <img src="/image/logo/logoKKN.webp" className="w-16 md:w-23" alt="" />
         </div>
       </footer>
     </>

@@ -5,7 +5,7 @@ import Sidebar from "./Sidebar";
 const Navbar = () => {
   return (
     <>
-      <div className="hidden md:flex justify-between text-xl font-bold sticky top-0 bg-white z-10 px-[125px]">
+      <div className="hidden md:flex justify-between text-xl font-bold sticky top-0 bg-white z-10 px-[125px] py-2">
         <div className="text-center my-auto">
           <img
             src="/image/logo/logoPaguyuban.jpg"
@@ -23,7 +23,7 @@ const Navbar = () => {
           Berita
         </Link>
         <div className="text-center my-auto">
-          <img src="/image/logo/logoKKN.webp" className="w-20 my-auto" alt="" />
+          <img src="/image/logo/logoKKN.webp" className="w-18 my-auto" alt="" />
         </div>
       </div>
       <Sidebar />

@@ -13,9 +13,7 @@ const HeroSection = ({ heroImage, title, subTitle }) => {
         <div className="absolute inset-0 flex flex-col justify-center items-center text-white text-center px-4">
           <p className="text-2xl mb-3 md:text-6xl font-bold">{title}</p>
           <p className="text-2xl md:text-6xl font-bold">Klampis Ngasem</p>
-          <p className="text-[10px] md:text-2xl font-bold max-w-4xl mt-4">
-            {subTitle}
-          </p>
+          <p className="text-[10px] md:text-2xl  max-w-4xl mt-4">{subTitle}</p>
         </div>
       </section>
     </>
