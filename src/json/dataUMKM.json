@@ -8,16 +8,17 @@
     "kontak": "082124810600",
     "kategori": ["Makanan"],
     "logo": "/image/logo/blank-icon.jpg",
+
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "15.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "5.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -30,14 +31,34 @@
     "logo": "/image/logo/capriesto.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Ayam Bakar",
+        "harga": "75.000/1 Ekor",
+        "gambar": "/image/katalog/capriesto/ayamBakar.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Ayam Goreng",
+        "harga": "30.000",
+        "gambar": "/image/katalog/capriesto/ayamGoreng.webp"
+      },
+      {
+        "nama_produk": "Ayam Kampung Panggang 1 Ekor",
+        "harga": "115.000/Ekor",
+        "gambar": "/image/katalog/capriesto/ayamKampung1ekor.webp"
+      },
+      {
+        "nama_produk": "Ayam Panggang",
+        "harga": "8.000/Biji",
+        "gambar": "/image/katalog/capriesto/ayamPanggang.webp"
+      },
+      {
+        "nama_produk": "Nasi Kotak",
+        "harga": "5.000",
+        "gambar": "/image/katalog/capriesto/nasiKotak.webp"
+      },
+      {
+        "nama_produk": "Tumpeng",
+        "harga": "900.000/30 Orang",
+        "gambar": "/image/katalog/capriesto/tumpeng.webp"
       }
     ]
   },
@@ -50,19 +71,19 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
   {
-    "nama_umkm": "Ayam Geprek Bejo",
+    "nama_umkm": "Ayam Geprek Bedjo",
     "pemilik": "Sriana",
     "alamat": "Jl. Klampis Aji Tengah II / 9",
     "kontak": "083117004119",
@@ -70,14 +91,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -91,17 +112,17 @@
     "katalog": [
       {
         "nama_produk": "Teh Lecy",
-        "harga": "6000",
+        "harga": "6.000",
         "gambar": "/image/katalog/dapur68/dapur681.jpg"
       },
       {
         "nama_produk": "Degan Sintetis",
-        "harga": "8000",
+        "harga": "8.000",
         "gambar": "/image/katalog/dapur68/dapur682.jpg"
       },
       {
         "nama_produk": "Soes Vla",
-        "harga": "5000",
+        "harga": "5.000",
         "gambar": "/image/katalog/dapur68/dapur683.jpg"
       }
     ]
@@ -116,7 +137,7 @@
     "katalog": [
       {
         "nama_produk": "Gurami bakar madu",
-        "harga": "70000",
+        "harga": "70.000",
         "gambar": "/image/katalog/dsoetji/dsoetji1.jpg"
       },
       {
@@ -126,12 +147,12 @@
       },
       {
         "nama_produk": "Ayam bakar madu",
-        "harga": "80000",
+        "harga": "80.000",
         "gambar": "/image/katalog/dsoetji/dsoetji3.jpg"
       },
       {
         "nama_produk": "Otak-otak Bakar Sunda",
-        "harga": "4000/pcs",
+        "harga": "4.000/pcs",
         "gambar": "/image/katalog/dsoetji/dsoetji4.jpg"
       }
     ]
@@ -145,14 +166,24 @@
     "logo": "/image/logo/salad_bohay.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Jamu Kunyit Asem 500ml",
+        "harga": "10.000/Botol",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Tahu Isi Bohay",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Salad Bohay 1500ml",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Risol Mayo Bohay",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -165,14 +196,34 @@
     "logo": "/image/logo/pawon35.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Donat",
+        "harga": "5.000",
+        "gambar": "/image/katalog/pawon35/donat.png"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Bakso Sapi",
+        "harga": "15.000",
+        "gambar": "/image/katalog/pawon35/baksoSapi.png"
+      },
+      {
+        "nama_produk": "Siomay Goreng",
+        "harga": "4.000",
+        "gambar": "/image/katalog/pawon35/siomay.png"
+      },
+      {
+        "nama_produk": "Siomay Rebus",
+        "harga": "4.000",
+        "gambar": "/image/katalog/pawon35/siomay.png"
+      },
+      {
+        "nama_produk": "Rengginang Kecil",
+        "harga": "17.000",
+        "gambar": "/image/katalog/pawon35/rengginang.png"
+      },
+      {
+        "nama_produk": "Rengginang besar",
+        "harga": "27.000",
+        "gambar": "/image/katalog/pawon35/rengginang.png"
       }
     ]
   },
@@ -182,17 +233,27 @@
     "alamat": "Jl. Klampis Semalang 7 / 17-A",
     "kontak": "082150513663",
     "kategori": ["Makanan"],
-    "logo": "/image/logo/blank-icon.jpg",
+    "logo": "/image/logo/dapurMamkey.webp",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Sinom",
+        "harga": "6.000",
+        "gambar": "/image/katalog/dapurMamkey/dapurMamkey2.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Roti Goreng Ayam Cincang",
+        "harga": "5.000",
+        "gambar": "/image/katalog/dapurMamkey/dapurMamkey3.webp"
+      },
+      {
+        "nama_produk": "Kue Lumpur Bakar",
+        "harga": "3.500",
+        "gambar": "/image/katalog/dapurMamkey/dapurMamkey4.webp"
+      },
+      {
+        "nama_produk": "Dadar Gulung Piscok",
+        "harga": "4.000",
+        "gambar": "/image/katalog/dapurMamkey/dapurMamkey5.webp"
       }
     ]
   },
@@ -205,14 +266,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -225,14 +286,44 @@
     "logo": "/image/logo/bundahamiz.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Arem-arem Ayam/Tongkol",
+        "harga": "5.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Lumpur Surga",
+        "harga": "5.500",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Macaroni Schotel",
+        "harga": "5.500",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Pudding Roti",
+        "harga": "5.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Paket Ekonomis Nasi Campur/Kuning",
+        "harga": "13.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Nasi Bakar Ayam/Tongkol",
+        "harga": "10.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Es Lumut Gula Jawa",
+        "harga": "7.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
+      },
+      {
+        "nama_produk": "Matcha Jelly Ice",
+        "harga": "9.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -245,14 +336,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -265,14 +356,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -285,14 +376,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "Infused Water Buah",
+        "harga": "8.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "Infused Water Rempah",
+        "harga": "10.000",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -305,14 +396,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -325,14 +416,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -345,14 +436,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -365,14 +456,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -385,14 +476,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -405,19 +496,19 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
   {
-    "nama_umkm": "Gracia’s",
+    "nama_umkm": "Jourelle's",
     "pemilik": "Evelina Widyawati",
     "alamat": "Jl. Klampis Sacharosa 58",
     "kontak": "081358226996",
@@ -425,14 +516,14 @@
     "logo": "/image/logo/gracias.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -445,14 +536,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -465,14 +556,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   },
@@ -485,14 +576,14 @@
     "logo": "/image/logo/blank-icon.jpg",
     "katalog": [
       {
-        "nama_produk": "Ayam Geprek Bejo",
-        "harga": 15000,
-        "gambar": "Ayam geprek dengan sambal pedas khas Bejo."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       },
       {
-        "nama_produk": "Minuman Segar",
-        "harga": 5000,
-        "gambar": "Minuman segar untuk menemani makan."
+        "nama_produk": "--Data Tidak Tersedia--",
+        "harga": "--Data Tidak Tersedia--",
+        "gambar": "/image/katalog/emptyKatalog.webp"
       }
     ]
   }

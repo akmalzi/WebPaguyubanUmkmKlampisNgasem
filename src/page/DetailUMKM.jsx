@@ -36,7 +36,7 @@ const DetailUMKM = () => {
               Penasaran ada produk apa aja? Cek di bawah ya!
             </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-25 w-8/10 md:w-7/10 mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-2 gap-10 md:gap-25 w-8/10 md:w-7/10 mx-auto">
             {katalog.map((item, index) => (
               <CardKatalog
                 key={index}

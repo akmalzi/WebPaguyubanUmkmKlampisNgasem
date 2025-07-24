@@ -33,7 +33,6 @@ const Sidebar = () => {
             width={170}
             className="mx-auto"
           />
-          {/* <img src="/image/logo/logoKKN.webp" alt="" className="w-15" /> */}
         </div>
         <div className="flex justify-between items-center p-4 border-b">
           <h2 className="text-xl font-bold">Menu</h2>
