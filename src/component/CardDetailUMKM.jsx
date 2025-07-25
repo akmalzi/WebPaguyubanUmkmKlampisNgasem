@@ -2,11 +2,11 @@ const CardDetailUMKM = ({ namaUMKM, alamat, pemilik, gambar, nomor }) => {
   console.log(namaUMKM, alamat, pemilik, gambar, nomor);
   return (
     <>
-      <div className="grid grid-cols-2 p-5 md:p-0">
+      <div className="grid grid-cols-1 md:grid-cols-2 p-5 md:p-0">
         <img
           src={gambar}
           alt="Logo UMKM"
-          className="w-25 m-auto md:w-52"
+          className="w-45 m-auto md:w-52 md:mb-0 mb-5"
           loading="lazy"
         />
         <div className="align-center my-auto">
