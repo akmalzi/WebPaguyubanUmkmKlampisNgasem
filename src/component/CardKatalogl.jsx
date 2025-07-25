@@ -4,7 +4,7 @@ const CardKatalog = ({ gambar, namaProduk, harga }) => {
       <img
         src={gambar}
         alt=""
-        className="rounded-t-3xl w-30 md:w-90"
+        className="rounded-t-3xl min-w-30 max-w-30 md:min-w-90 md:max-w-30"
         loading="lazy"
       />
       <div className="p-5">
