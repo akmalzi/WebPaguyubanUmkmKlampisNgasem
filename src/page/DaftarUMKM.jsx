@@ -47,7 +47,7 @@ const DaftarUMKM = () => {
             className="border-4 border-[#547792] w-9/10 justify-center m-auto p-3 rounded-2xl text-xl font-semibold"
           />
         </div>
-        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-10 my-15 md:my-21 text-center">
+        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-10 my-15 md:my-21">
           {tombolList.map((label, index) => (
             <button
               key={index}
@@ -62,7 +62,7 @@ const DaftarUMKM = () => {
                 }
                 // setAktifIndex(index === aktifIndex ? null : index);
               }}
-              className={`px-5 py-2 rounded-[30px] font-semibold transition duration-300 ${
+              className={`px-5 mx-auto py-2 rounded-[30px] font-semibold transition duration-300 ${
                 aktifIndex === index
                   ? "bg-[#547792] text-white"
                   : "bg-gray-200 text-black"
