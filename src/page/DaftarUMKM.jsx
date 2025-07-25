@@ -47,7 +47,7 @@ const DaftarUMKM = () => {
             className="border-4 border-[#547792] w-9/10 justify-center m-auto p-3 rounded-2xl text-xl font-semibold"
           />
         </div>
-        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-10 my-15 md:my-21">
+        <div className="w-7/10 mx-auto grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-10 my-15 md:my-21 text-center">
           {tombolList.map((label, index) => (
             <button
               key={index}

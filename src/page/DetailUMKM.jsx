@@ -20,7 +20,7 @@ const DetailUMKM = () => {
               Informasi lengkap tentang UMKM Klampis Ngasem
             </p>
           </div>
-          <div className="w-9/10 md:w-6/10 bg-[#ecefca] mx-auto md:p-15 ">
+          <div className="w-9/10 md:w-6/10 bg-[#ecefca] mx-auto md:p-15 p-5">
             <CardDetailUMKM
               namaUMKM={namaUMKM}
               gambar={gambar}
