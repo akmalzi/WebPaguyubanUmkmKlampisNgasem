@@ -15,6 +15,7 @@ const TentangKami = ({ tentangKami }) => {
             src={tentangKami}
             alt="profile"
             className="w-50 md:w-80 my-auto align-center rounded-4xl"
+            loading="lazy"
           />
         </div>
         <div className="m-auto">

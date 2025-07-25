@@ -20,7 +20,7 @@ const DetailUMKM = () => {
               Informasi lengkap tentang UMKM Klampis Ngasem
             </p>
           </div>
-          <div className="w-9/10 md:w-6/10 bg-[#ecefca] mx-auto md:p-15">
+          <div className="w-9/10 md:w-6/10 bg-[#ecefca] mx-auto md:p-15 ">
             <CardDetailUMKM
               namaUMKM={namaUMKM}
               gambar={gambar}
@@ -31,12 +31,23 @@ const DetailUMKM = () => {
             />
           </div>
           <div className="text-center my-21">
+            <button className="bg-green-300 p-5 rounded-[50px] hover:scale-110 transition-transform duration-300 ease-in-out font-bold text-md md:text-xl cursor-pointer">
+              <a
+                href={`https://wa.me/${nomor.replace(/^0/, "62")}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Hubungi via WhatsApp
+              </a>
+            </button>
+          </div>
+          <div className="text-center my-21">
             <p className="font-bold text-4xl">Katalog Produk</p>
             <p className="font-semibold text-xl mt-4">
               Penasaran ada produk apa aja? Cek di bawah ya!
             </p>
           </div>
-          <div className="grid grid-cols-2 md:grid-cols-2 gap-10 md:gap-25 w-8/10 md:w-7/10 mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-2 gap-10 md:gap-25 w-8/10 md:w-7/10 mx-auto ">
             {katalog.map((item, index) => (
               <CardKatalog
                 key={index}

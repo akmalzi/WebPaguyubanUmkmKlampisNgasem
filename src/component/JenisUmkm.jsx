@@ -17,6 +17,7 @@ const JenisUmkm = () => {
                 alt=""
                 width={120}
                 className="mx-auto hover:scale-110 transition-transform duration-300 ease-in-out"
+                loading="lazy"
               />
               <p className="font-semibold mt-4">{item.kategori}</p>
             </div>

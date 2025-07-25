@@ -6,6 +6,7 @@ const HeroSection = ({ heroImage, title, subTitle }) => {
           src={heroImage}
           alt=""
           className="w-full h-auto object-cover rounded-3xl"
+          loading="lazy"
         />
 
         <div className="absolute inset-0 bg-black opacity-50 rounded-3xl"></div>

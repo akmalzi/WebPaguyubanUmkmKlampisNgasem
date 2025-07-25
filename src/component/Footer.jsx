@@ -25,7 +25,12 @@ const Footer = () => {
           </p>
         </div>
         <div className="ml-auto">
-          <img src="/image/logo/logoKKN.webp" className="w-16 md:w-23" alt="" />
+          <img
+            src="/image/logo/logoKKN.webp"
+            className="w-16 md:w-23"
+            alt=""
+            loading="lazy"
+          />
         </div>
       </footer>
     </>

@@ -11,6 +11,7 @@ const Navbar = () => {
             src="/image/logo/logoPaguyuban.jpg"
             className="w-50 my-auto"
             alt=""
+            loading="lazy"
           />
         </div>
         <Link to="/" className="text-center my-auto">
@@ -23,7 +24,12 @@ const Navbar = () => {
           Berita
         </Link>
         <div className="text-center my-auto">
-          <img src="/image/logo/logoKKN.webp" className="w-18 my-auto" alt="" />
+          <img
+            src="/image/logo/logoKKN.webp"
+            className="w-18 my-auto"
+            alt=""
+            loading="lazy"
+          />
         </div>
       </div>
       <Sidebar />

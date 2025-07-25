@@ -32,6 +32,7 @@ const Sidebar = () => {
             alt=""
             width={170}
             className="mx-auto"
+            loading="lazy"
           />
         </div>
         <div className="flex justify-between items-center p-4 border-b">
